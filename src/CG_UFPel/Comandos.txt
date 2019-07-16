@@ -1,0 +1,37 @@
+**Comandos// entradas do teclado :
+
+RIGHT - Transformação: Translate {Bola se move para a direita}
+
+LEFT - Transformação: Translate {Bola se move para a esquerda}
+
+UP - Transformação: Translate {Bola se move para cima}
+
+DOWN - Transformação: Translate {Bola se move para baixo}
+
+R - Transformação: Rotação {Bola faz rotação em torno do eixo}
+
+P - Interrompe a rotação em R
+
+Q - Transformação: Rotação {Bola faz rotação em torno de um ponto}
+
+U - Interrompe a rotação em Q
+
+PAGE UP - Transformação: Scala {Bola aumenta o tamanho}
+
+PAGE DOWN - Transformação: Scala {Bola diminuiu o tamanho}
+
+O - Bola volta a escala inicial
+
+N - N Modelos {Várias bolas aparecem na tela}
+
+F2 - Volta a ter um modelo na tela
+
+Space - Inicia a animação (translação\translação\translação\scala\rotação\rotação)
+
+F1 - Interrompe a animação
+
+F5 - Transformação: Translate(Curva) {Bola se move em curva(splines)}
+
+F7 - Transformação: Rotação {Camera faz rotação em torno de um ponto}
+
+WASD - ZOOM

@@ -1,0 +1,5 @@
+/home/raissasp/CG_UFPel/build/CMakeFiles/edit_cache.dir
+/home/raissasp/CG_UFPel/build/CMakeFiles/CG_UFPel.dir
+/home/raissasp/CG_UFPel/build/CMakeFiles/GLAD.dir
+/home/raissasp/CG_UFPel/build/CMakeFiles/STB_IMAGE.dir
+/home/raissasp/CG_UFPel/build/CMakeFiles/rebuild_cache.dir
